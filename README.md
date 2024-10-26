@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saturn7569
 - 👀 I’m interested in programming games
-- 🌱 I’m currently learning python and assembly
+- 🌱 I’m currently learning python and rust
 - 💞️ I’m looking to collaborate on an indie game
 
 <!---
