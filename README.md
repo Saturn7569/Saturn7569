@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Saturn7569
-- 👀 I’m interested in programming games
-- 🌱 I’m currently learning python and rust
-- 💞️ I’m looking to collaborate on an indie game
+- 👀 I’m interested in programming games and stuff
+- 🌱 I’m currently learning python and go
 
 <!---
 Saturn7569/Saturn7569 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
