@@ -1,5 +1,5 @@
 # 💫 About Me:
-A programmer working on stuff idk😑
+An open-source freedom fighter🫡🫡
 
 
 # 💻 Tech Stack:
