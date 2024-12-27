@@ -34,6 +34,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Saturn7569/Saturn7569/output/snake.svg" alt="Snake animation" />
-
 ###
