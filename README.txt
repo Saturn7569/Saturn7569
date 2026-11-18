@@ -3,10 +3,10 @@
 \___ \/    \ )(  ) \/ ( )   //    /  / /(___ \(  _ \\__  )
 (____/\_/\_/(__) \____/(__\_)\_)__) (_/ (____/ \___/(___/ 
                                                         
-I make stuff (very original, I know)
+Open source is the best source.
 
 === PROJECTS ===
 
-When my stuff isn't private, I usually work on low lever projects in Rust or C.
+When my stuff isn't private, I usually work on low level projects in Rust or C.
 
 Check out my projects below.
